@@ -3,7 +3,8 @@
 ### 1 - PROJETO - TEMA
   - Entrega de relatorio em formato PDF e apresentação em PPTX
    
-   Email de encaminhamento: challenges@i2a2.academy com copia para si mesmo, contendo os arquivos anexados e opcionamente copia para todos os membros do grupo.
+   Email de encaminhamento: challenges@i2a2.academy com copia para si mesmo, contendo os arquivos anexados 
+                            e opcionamente copia para todos os membros do grupo.
    Titulo do email : "Agentes Autônomos - Projeto - Entrega 1"
    
 ### 2 - DESAFIO NOTAS FISCAIS - RELATÓRIO - PDF
@@ -15,7 +16,8 @@
 
     Obs: Ocultar chaves de acesso, descrição dos agentes funcionando.
 
-    Email de encaminhamento: challenges@i2a2.academy com copia para si mesmo, contendo o pdf anexado e opcionamente copia para todos os membros do grupo.
+    Email de encaminhamento: challenges@i2a2.academy com copia para si mesmo, contendo o pdf anexado 
+                             e opcionamente copia para todos os membros do grupo.
     Titulo do email : "Agentes Autônomos - Análise de CSV"
     Entrega é 18/06/2025 até 23h59   
 
