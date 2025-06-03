@@ -33,5 +33,5 @@
 
  ## Diversos
  
-   ### Link de um agente elaborado por um dos alunos do curso, proposito de auxiliar a todos com as informações do curso.
+   ### Link de um agente elaborado por um dos alunos do curso, propósito de auxiliar a todos com as informações do curso.
    - https://chatgpt.com/g/g-683c3132a1a48191a0f3fd3b1bf887ca-i2a2-agente
