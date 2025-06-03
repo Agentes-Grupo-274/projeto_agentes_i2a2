@@ -27,7 +27,7 @@
        ### Definição do tema do projeto
              #### Sugestão inicial : Um Assistente educacional personalizado,  tendo como dominio "artes na educação"
        ### Uso do CRISP-DM      
-       ### Tarefas que teremos paa fazer
+       ### Tarefas que teremos para fazer
        ### Atribuição das tarefas
        ### Formas de acompanhamento - Uso do trello
 
